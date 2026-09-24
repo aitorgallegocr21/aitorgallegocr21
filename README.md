@@ -19,17 +19,22 @@
 
 </div>
 
----
 
-### 🛠️ Tecnologías y Herramientas
+
+### 🛠️ Tecnologías y Entornos
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,ts,angular,bash,linux,git,idea,vscode&perline=9" alt="Tech Stack" />
   </a>
+  <br/><br/>
+  <!-- Modding / Low-level tinkering -->
+  <img src="https://img.shields.io/badge/Android-Custom_ROMs_%26_Tweaking-3DDC84?style=flat-square&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/LineageOS-Ecosystem-167C80?style=flat-square&logo=lineageos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Fastboot_%2F_ADB-4E5569?style=flat-square&logo=gnubash&logoColor=white" />
 </div>
 
----
+
 
 ### 📊 Actividad en GitHub
 
