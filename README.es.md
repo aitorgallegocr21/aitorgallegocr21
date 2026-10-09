@@ -2,7 +2,7 @@
 
 <!-- CABECERA DINÁMICA -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Developer;Construyendo+proyectos+open-source;Aprendiendo+siempre+cosas+nuevas" alt="Desarrollador de software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Desarrollador+de+software;Construyendo+proyectos+de+código+abierto;Aprendiendo+siempre+cosas+nuevas" alt="Desarrollador de software" />
 </a>
 
 <p align="center">
@@ -31,13 +31,13 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,angular,bash,linux,git,idea,vscode&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,angular,bash,linux,git,idea,vscode&perline=9" alt="Pila tecnológica" />
   </a>
   <br/><br/>
-  <!-- Modding / Low-level tinkering -->
-  <img src="https://img.shields.io/badge/Android-Custom_ROMs_%26_Tweaking-3DDC84?style=flat-square&logo=android&logoColor=black" />
-  <img src="https://img.shields.io/badge/LineageOS-Ecosystem-167C80?style=flat-square&logo=lineageos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Fastboot_%2F_ADB-4E5569?style=flat-square&logo=gnubash&logoColor=white" />
+  <!-- Modding / Experimentación de bajo nivel -->
+  <img src="https://img.shields.io/badge/Android-ROMs_personalizadas_%26_ajustes-3DDC84?style=flat-square&logo=android&logoColor=black" />
+  <img src="https://img.shields.io/badge/LineageOS-Ecosistema-167C80?style=flat-square&logo=lineageos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Herramientas-Fastboot_%2F_ADB-4E5569?style=flat-square&logo=gnubash&logoColor=white" />
 </div>
 
 
@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <sub>Aitor Gallego-Casilda Romero - Estudiante de 2º DAM</sub>
+  <sub>Aitor Gallego-Casilda Romero - Estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma</sub>
 </div>
