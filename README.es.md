@@ -2,7 +2,7 @@
 
 <!-- CABECERA DINÁMICA -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Desarrollador+de+software;Construyendo+proyectos+de+c%C3%B3digo+abierto;Aprendiendo+siempre+cosas+nuevas" alt="Desarrollador de software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+software;Construyendo+proyectos+de+c%C3%B3digo+abierto;Aprendiendo+siempre+cosas+nuevas" alt="Desarrollador de software" />
 </a>
 
 <p align="center">
