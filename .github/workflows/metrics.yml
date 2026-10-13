@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Modern Classic Metrics
+      - name: Unified Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -21,27 +21,29 @@ jobs:
           filename: github-metrics.svg
           template: classic
           
-          # Repositorios y autoría para tus colaboraciones
+          # 1. MOSTRAR COMMITS Y ACTIVIDAD (sin el avatar ni seguidores redundantes)
+          base: activity, repositories
+          base_indepth: yes
+          
+          # Repositorios propios y colaboraciones
           repositories_affiliations: owner, collaborator
-          commits_authoring: aitorgallegocr21, aitorgallegocr21@gmail.com
           
-          # Ocultamos la cabecera repetitiva y la base estándar con ceros
-          base: ""
+          # 2. AUTORÍA DE COMMITS: cubre tu usuario, correo directo y el noreply de GitHub
+          commits_authoring: aitorgallegocr21, aitorgallegocr21@gmail.com, aitorgallegocr21@users.noreply.github.com
           
-          # 1. PLUGIN DE LÍNEAS DE CÓDIGO (Líneas añadidas / borradas por ti)
+          # 3. LÍNEAS DE CÓDIGO (Auditoría de líneas añadidas / borradas)
           plugin_lines: yes
           plugin_lines_sections: base
-          plugin_lines_history_limit: 3
-          plugin_lines_repositories_limit: 10
+          plugin_lines_history_limit: 5
+          plugin_lines_repositories_limit: 15
           
-          # 2. PLUGIN DE LENGUAJES (Formato moderno y limpio)
+          # 4. LENGUAJES (Porcentajes limpios, sin kB)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_colors: github
           
-          # 3. Estética moderna: Paleta Tokyo Night con borde sutil
+          # 5. ESTILIZADO TOKYO NIGHT
           config_theme: tokyonight
-          config_border: yes
           config_padding: 4%, 8%
