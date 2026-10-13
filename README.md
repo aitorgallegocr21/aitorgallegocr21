@@ -45,9 +45,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="metrics-lines.svg" alt="Code Additions & Lines" height="180em" />
-  &nbsp;&nbsp;
-  <img src="metrics-langs.svg" alt="Languages Overview" height="180em" />
+  <img src="github-metrics.svg" alt="GitHub Metrics & Statistics" />
 </div>
 
 ---
