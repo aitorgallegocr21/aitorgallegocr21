@@ -13,50 +13,33 @@ jobs:
     permissions:
       contents: write
     steps:
-      # TARJETA 1: Métricas de Líneas y Contribuciones Reales
-      - name: Metrics - Code & Lines
+      - name: Generate Unified GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: aitorgallegocr21
-          filename: metrics-lines.svg
+          filename: github-metrics.svg
           template: classic
           
-          # Quitar completamente el avatar y textos innecesarios del encabezado
-          base: ""
+          # Solo mostramos la actividad (commits, PRs, etc.), OMITIENDO avatar y followers
+          base: activity
           
-          # Repositorios propios y donde colaboras
+          # Ámbito: repos propios y donde colaboras
           repositories_affiliations: owner, collaborator
           commits_authoring: aitorgallegocr21, aitorgallegocr21@gmail.com
           
-          # Plugin de líneas añadidas/eliminadas
+          # 1. PLUGIN DE LÍNEAS DE CÓDIGO
           plugin_lines: yes
           plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 15
           
-          # Tema y estética limpia
-          config_theme: tokyonight
-          config_padding: 4%, 8%
-
-      # TARJETA 2: Lenguajes (Calculados a fondo y limpios)
-      - name: Metrics - Languages
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: aitorgallegocr21
-          filename: metrics-langs.svg
-          template: classic
-          
-          base: ""
-          repositories_affiliations: owner, collaborator
-          
-          # Plugin de lenguajes moderno (solo porcentajes, sin bytes en kB)
+          # 2. PLUGIN DE LENGUAJES (Porcentajes limpios)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_colors: github
           
-          # Tema y espaciado consistente
+          # Tema oscuro estilizado y sin márgenes rotos
           config_theme: tokyonight
           config_padding: 4%, 8%
