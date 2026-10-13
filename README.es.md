@@ -45,11 +45,7 @@
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <!-- Estadísticas generales (servidor extendido activo) -->
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=aitorgallegocr21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  
-  <!-- Lenguajes más usados (servidor extendido activo) -->
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aitorgallegocr21&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="github-metrics.svg?v=4" alt="GitHub Metrics" />
 </div>
 
 ---
