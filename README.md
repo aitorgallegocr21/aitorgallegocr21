@@ -44,12 +44,10 @@
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
 <div align="center">
-  <!-- General statistics (extended server active) -->
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=aitorgallegocr21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  
-  <!-- Most used languages (extended server active) -->
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aitorgallegocr21&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics & Statistics" />
 </div>
 
 ---
