@@ -57,9 +57,6 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_colors: github
           
-          # Análisis en profundidad de commits
-          plugin_languages_indepth: yes
-          
           # Tema y espaciado consistente
           config_theme: tokyonight
           config_padding: 4%, 8%
