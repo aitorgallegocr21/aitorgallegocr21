@@ -45,7 +45,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics & Statistics" />
+  <img src="github-metrics.svg?v=4" alt="GitHub Metrics & Statistics" />
 </div>
 
 ---
