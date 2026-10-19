@@ -33,7 +33,7 @@ jobs:
           
           # 3. LÍNEAS DE CÓDIGO (Auditoría de líneas añadidas / borradas)
           plugin_lines: yes
-          plugin_lines_sections: base
+          plugin_lines_sections: base, history, repositories
           plugin_lines_history_limit: 5
           plugin_lines_repositories_limit: 15
           
