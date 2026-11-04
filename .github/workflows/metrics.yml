@@ -35,6 +35,34 @@ jobs:
           
           config_padding: 4%, 8%
 
+          # 3. Estilo Tokyo Night a juego con Streak Stats
+          extras_css: |
+            svg {
+              background: #1a1b27 !important;
+              border-radius: 8px !important;
+            }
+            .items-wrapper {
+              color: #c0caf5 !important;
+              font-family: 'Segoe UI', Ubuntu, -apple-system, sans-serif !important;
+            }
+            h2, h3 {
+              color: #70a5fd !important;
+              font-weight: 600 !important;
+            }
+            .field {
+              color: #c0caf5 !important;
+            }
+            .field svg {
+              fill: #70a5fd !important;
+            }
+            .field.language.details small, .field.license.details small {
+              color: #a9b1d6 !important;
+            }
+            code {
+              background-color: #24283b !important;
+              color: #7aa2f7 !important;
+            }
+
       - name: Isometric 3D Commit Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -44,3 +72,24 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Estilo Tokyo Night a juego
+          extras_css: |
+            svg {
+              background: #1a1b27 !important;
+              border-radius: 8px !important;
+            }
+            .items-wrapper {
+              color: #c0caf5 !important;
+              font-family: 'Segoe UI', Ubuntu, -apple-system, sans-serif !important;
+            }
+            h2, h3 {
+              color: #70a5fd !important;
+              font-weight: 600 !important;
+            }
+            .field {
+              color: #c0caf5 !important;
+            }
+            .field svg {
+              fill: #70a5fd !important;
+            }
