@@ -15,6 +15,13 @@
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
+<!-- PORTFOLIO & CV HIGHLIGHT -->
+<p align="center">
+  <a href="https://aitorgallegocr21.github.io/personal-website/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Portfolio_%26_Personal_Website-Live_Preview_↗-58A6FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22" alt="Portfolio & CV" />
+  </a>
+</p>
+
 <!-- QUICK LINKS / CONTACT -->
 <a href="https://linkedin.com/in/aitor-gallego-casilda-romero-7260ba3a1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,7 +34,7 @@
 
 
 
-### 🛠️ Technologies and Environments
+### 🛠️ Technologies & Environments
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -42,10 +49,16 @@
 
 
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="github-metrics.svg?v=4" alt="GitHub Metrics & Statistics" />
+  <a href="https://github.com/aitorgallegocr21">
+    <img src="https://streak-stats.demolab.com/?user=aitorgallegocr21&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+  <img src="github-metrics.svg" alt="GitHub Metrics & Languages" />
+  <br/><br/>
+  <img src="isocalendar.svg" alt="Isometric Commit Calendar" />
 </div>
 
 ---

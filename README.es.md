@@ -15,6 +15,13 @@
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
+<!-- BOTÓN DESTACADO PORTFOLIO Y CV -->
+<p align="center">
+  <a href="https://aitorgallegocr21.github.io/personal-website/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Portfolio_%26_Sitio_Web_Personal-Ver_en_vivo_↗-58A6FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=161b22" alt="Portfolio y CV" />
+  </a>
+</p>
+
 <!-- ENLACES RÁPIDOS / CONTACTO -->
 <a href="https://linkedin.com/in/aitor-gallego-casilda-romero-7260ba3a1" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,10 +49,16 @@
 
 
 
-### 📊 Actividad en GitHub
+### 📊 Actividad en GitHub y Rachas
 
 <div align="center">
-  <img src="github-metrics.svg?v=4" alt="GitHub Metrics" />
+  <a href="https://github.com/aitorgallegocr21">
+    <img src="https://streak-stats.demolab.com/?user=aitorgallegocr21&theme=tokyonight&hide_border=true&border_radius=8" alt="Racha en GitHub" />
+  </a>
+  <br/><br/>
+  <img src="github-metrics.svg" alt="Métricas y Lenguajes de GitHub" />
+  <br/><br/>
+  <img src="isocalendar.svg" alt="Calendario Isométrico de Commits" />
 </div>
 
 ---
