@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,angular,bash,linux,git,idea,vscode&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,python,angular,astro,docker,bash,linux,git,idea,vscode&perline=12" alt="Tech Stack" />
   </a>
   <br/><br/>
   <!-- Modding / Low-level tinkering -->

@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,angular,bash,linux,git,idea,vscode&perline=9" alt="Pila tecnológica" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,python,angular,astro,docker,bash,linux,git,idea,vscode&perline=12" alt="Pila tecnológica" />
   </a>
   <br/><br/>
   <!-- Modding / Experimentación de bajo nivel -->
