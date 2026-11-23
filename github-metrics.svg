@@ -43,7 +43,7 @@ code {
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            727 Commits
+                            729 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -154,14 +154,14 @@ code {
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.24442290310327" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="227.24442290310327" y="0" width="81.22560832976217" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="308.47003123286544" y="0" width="77.06663323184368" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.5366644647091" y="0" width="32.615165811146895" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="418.151830275856" y="0" width="16.32738181008397" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="434.47921208593993" y="0" width="13.582737151764778" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.0619492377047" y="0" width="6.178119029217419" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="454.24006826692215" y="0" width="5.759931733077832" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.2313258251532" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="227.2313258251532" y="0" width="81.2209269470015" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="308.4522527721547" y="0" width="77.06219154878764" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="385.5144443209423" y="0" width="32.613286058220396" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="418.1277303791627" y="0" width="16.326440792524306" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="434.454171171687" y="0" width="13.5819543199356" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.0361254916226" y="0" width="6.204274745052337" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="454.24040023667493" y="0" width="5.759599763325037" height="8" fill="#7355dd"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -206,7 +206,7 @@ code {
                                 Kotlin
                             </div>
                             <small>
-                                <div>1.34%</div>
+                                <div>1.35%</div>
                             </small>
                         </div>
                     </section>
